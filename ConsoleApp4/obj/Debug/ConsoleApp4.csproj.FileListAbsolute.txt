@@ -1,0 +1,8 @@
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
