@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Newtonsoft.Json;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace ConsoleApp4
@@ -29,6 +31,12 @@ namespace ConsoleApp4
                 Console.WriteLine("values: " + kvp.Value);
                 Console.WriteLine();
             }
+       
+
+            js = JsonConvert.SerializeObject(sortedDict);
+            var pathout = Path.Combine(Environment.CurrentDirectory, "FileToJson.json");
+            File.WriteAllText(pathout, js);
+            Console.WriteLine("\nДанi " + this.GetType() + " скопiйованi у файл FileToJson.json");
         }
         private static Dictionary<int, string> Input()
         {
@@ -97,6 +105,8 @@ namespace ConsoleApp4
             theElement.Word = word;
             elements.Add(key: numkey, value: theElement.Word);
         }
+
+        private string js { set; get; }
 
         public class Element
         {

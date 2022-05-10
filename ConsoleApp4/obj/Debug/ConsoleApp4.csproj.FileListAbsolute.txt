@@ -6,3 +6,6 @@ D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.Sugges
 D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+D:\Учёба\ООП\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
